@@ -1,2 +1,5 @@
 name = input("What your name?: ")
-print("You name is " + name)
+if name == "Dima":
+	print("Hello Dima! How are you?")
+else:
+	print("You name is " + name)
